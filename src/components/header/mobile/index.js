@@ -8,7 +8,7 @@ function Mobile({isOpen,setIsOpen}) {
       </div>
       <div className='mobile-options'>
       <div className='mobile-option'>
-          <a href='#project'>
+          <a href='#projects'>
           <i class="fi fi-rr-settings option-icon"></i>Projects
 
           </a>
@@ -19,13 +19,13 @@ function Mobile({isOpen,setIsOpen}) {
           </a>
       </div>
       <div className='mobile-option'>
-          <a href='work'>
+          <a href='#work'>
           <i class="fi fi-rr-briefcase option-icon"></i>work
          
           </a>
       </div>
       <div className='mobile-option'>
-          <a href='#user'>
+          <a href='#contact'>
           <i class="fi fi-rr-user option-icon"></i>Contact
           </a>
       </div>

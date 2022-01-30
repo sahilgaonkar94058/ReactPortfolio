@@ -4,7 +4,7 @@ import './web.css'
 function Web() {
   return <div className='web'>
       <div className='web-option'>
-          <a href='#project'>
+          <a href='#projects'>
           <i class="fi fi-rr-settings option-icon"></i>Projects
 
           </a>
@@ -15,13 +15,13 @@ function Web() {
           </a>
       </div>
       <div className='web-option'>
-          <a href='work'>
-          <i class="fi fi-rr-briefcase option-icon"></i>work
+          <a href='#work'>
+          <i class="fi fi-rr-briefcase option-icon"></i>Work
          
           </a>
       </div>
       <div className='web-option'>
-          <a href='#user'>
+          <a href='#contact'>
           <i class="fi fi-rr-user option-icon"></i>Contact
           </a>
       </div>
