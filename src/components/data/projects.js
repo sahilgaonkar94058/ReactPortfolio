@@ -2,8 +2,8 @@ export const ProjectData=[
     {
         id:1,
         title:"Cafe App",
-        tags:["Android Studio","Java","Firebase"],
-        about:"Create a machine learning code in python to accept command line input Use Dockerfile to build the image with the python code Create the container and give the input while launching the container so that container gives output and then stops.",
+        tags:["Android Studio","Java","Firebase","SQLite"],
+        about:"this application provides a view of current food information name, images, price, description etc. on Android application. The customer can order food. of this application is to provide a single platform for who wantsorder food.We intent to provide a simple interface which could be easily understandable by buyers.",
         image:
         "https://thumbs.dreamstime.com/b/d-isometric-flat-vector-concept-restaurant-cafe-online-food-order-app-table-reservation-mobile-booking-184082574.jpg",
         Github: 

@@ -9,7 +9,7 @@ function ProjectCard({project}) {
             <a className='project-links' href={project.Github}>
             <div className='link-button' >
             
-            <i class="devicon-github-original-wordmark colored">GitHub</i>
+            <i className="devicon-github-original-wordmark colored">GitHub</i>
 
             
             </div>

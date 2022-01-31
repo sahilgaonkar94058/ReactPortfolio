@@ -6,9 +6,13 @@ function WorkCard({item}) {
       <img src={item.companylogo} className='work-logo'/>
       <div className='work-info'>
           <label className='company-name'>{item.company}</label>
+          <div >
+            <label>{item.designation}</label>
+          </div>
           <div className='work-date'>
               <label>{item.date}</label>
           </div>
+          
           <div className='work-desc'>
               <p>{item.work}</p>
           </div>
