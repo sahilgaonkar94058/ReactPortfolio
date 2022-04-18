@@ -12,7 +12,7 @@ function Contact() {
         <SocialContact/>
       </div>
       <div className='download'>
-        <a dowload href='https://drive.google.com/file/d/1RDCUb-pkKROqV2CwBOxSW94vCqBohgoD/view?usp=sharing'>
+        <a dowload href='https://drive.google.com/file/d/1yaMAlDGp4AUdvLo_BYgPTRj4ruPxFvHi/view?usp=sharing'>
         <i className="fi fi-rr-download download-icon"></i>
         Download Resume
         </a>

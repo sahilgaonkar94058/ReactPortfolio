@@ -34,6 +34,8 @@
     text-decoration: none;
     color: black;
 }
+
+
 @media only screen and (max-width:720px){
     .contact-container{
         flex-direction: column;
