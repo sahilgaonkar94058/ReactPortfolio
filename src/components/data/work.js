@@ -12,7 +12,7 @@ export const WorkData=[
         designation:"intern",
         date:'1 feb to 28 feb  ',
         companylogo:"https://media-exp1.licdn.com/dms/image/C510BAQEHqel3x83gsg/company-logo_200_200/0/1582539617358?e=2147483647&v=beta&t=FNT0cDyVCCJB67zkhaaVgifvWpShI9Ppd3Auh1Sx2o0",
-        work:"Complted task devloping landing page  using html,css,javascript and host on heruku."
+        work:"Complted task devloping landing page  using html,css,javascript and hosted on heruku."
 
     }
 
