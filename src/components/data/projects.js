@@ -5,7 +5,7 @@ export const ProjectData=[
         tags:["Html","Css","Javascript","Python","Flask"],
         about:"This web application has five pages first page is Home page it has basic linux commandas and its information.Secound page is Terminal page it is for practising basic linux commands.Third page is chatbot page it is build in using python flask it is foe users quaries and last two pages are ofline version download and aboust us page.",
         image:
-        "https://thumbs.dreamstime.com/b/d-isometric-flat-vector-concept-restaurant-cafe-online-food-order-app-table-reservation-mobile-booking-184082574.jpg",
+        "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQN37CnARU4pPMtF_qhNmHwqGqAPKXzNKImzQ&usqp=CAU",
         Github: 
         ""
     },{
