@@ -3,7 +3,7 @@ export const ProjectData=[
         id:1,
         title:"Linux Emulator Web Application",
         tags:["Html","Css","Javascript","Python","Flask"],
-        about:"This web application has five pages first page is Home page it has basic linux commandas and its information.Secound page is Terminal page it is for practising basic linux commands.Third page is chatbot page it is build in using python flask it is foe users quaries and last two pages are ofline version download and aboust us page.",
+        about:"This web application has five pages the first page is the Home page which has basic Linux commands and information. The second page is the Terminal page it is for practicing basic Linux commands. The third page is the chatbot page it is built using python flask it is for users' queries and the last two pages are the offline version download and about us page.",
         image:
         "https://wallpaperbat.com/img/63458-linux-hd-wallpaper.jpg",
         Github: 
@@ -25,7 +25,7 @@ export const ProjectData=[
         id:1,
         title:" Python Menu Automation",
         tags:["Docker","Python"],
-        about:"Python manu based programe is gets input from user  and run the task using python automation.",
+        about:"Python menu-based program gets input from the user  and runs the task using python automation.",
         image:
         "https://c4.wallpaperflare.com/wallpaper/913/616/944/technology-programming-coding-python-wallpaper-preview.jpg",
         Github: 

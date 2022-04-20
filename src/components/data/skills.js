@@ -32,7 +32,7 @@ export const SkillsData = [
         icon: <i className="devicon-docker-plain colored"></i>,
       },
       {
-        name: "Kubernets",
+        name: "Kubernetes",
         icon: <i className="devicon-kubernetes-plain colored"></i>,
       },
       {
